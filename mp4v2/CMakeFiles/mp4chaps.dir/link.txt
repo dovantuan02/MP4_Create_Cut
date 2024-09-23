@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mp4chaps.dir/util/mp4chaps.cpp.o -o mp4chaps  -Wl,-rpath,/home/tuan/FPT/MP4v2/mp4v2: libutil.a libmp4v2.so.2.1.3 

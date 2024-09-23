@@ -1,0 +1,17 @@
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4v2.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/util.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4art.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4chaps.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4extract.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4file.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4info.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4subtitle.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4tags.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4track.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/mp4trackdump.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/edit_cache.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/rebuild_cache.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/list_install_components.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/install.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/install/local.dir
+/home/tuan/FPT/MP4v2/mp4v2/CMakeFiles/install/strip.dir

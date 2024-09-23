@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutil.a CMakeFiles/util.dir/libutil/crc.cpp.o CMakeFiles/util.dir/libutil/Timecode.cpp.o
+/usr/bin/ranlib libutil.a

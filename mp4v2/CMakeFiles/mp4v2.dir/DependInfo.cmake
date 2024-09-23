@@ -1,0 +1,122 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/io/File.cpp" "CMakeFiles/mp4v2.dir/libplatform/io/File.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/io/File.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/io/FileSystem.cpp" "CMakeFiles/mp4v2.dir/libplatform/io/FileSystem.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/io/FileSystem.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/io/FileSystem_posix.cpp" "CMakeFiles/mp4v2.dir/libplatform/io/FileSystem_posix.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/io/FileSystem_posix.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/io/File_posix.cpp" "CMakeFiles/mp4v2.dir/libplatform/io/File_posix.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/io/File_posix.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/number/random_posix.cpp" "CMakeFiles/mp4v2.dir/libplatform/number/random_posix.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/number/random_posix.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/prog/option.cpp" "CMakeFiles/mp4v2.dir/libplatform/prog/option.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/prog/option.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/sys/error.cpp" "CMakeFiles/mp4v2.dir/libplatform/sys/error.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/sys/error.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/time/time.cpp" "CMakeFiles/mp4v2.dir/libplatform/time/time.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/time/time.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libplatform/time/time_posix.cpp" "CMakeFiles/mp4v2.dir/libplatform/time/time_posix.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libplatform/time/time_posix.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libutil/TrackModifier.cpp" "CMakeFiles/mp4v2.dir/libutil/TrackModifier.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libutil/TrackModifier.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libutil/Utility.cpp" "CMakeFiles/mp4v2.dir/libutil/Utility.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libutil/Utility.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/libutil/other.cpp" "CMakeFiles/mp4v2.dir/libutil/other.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/libutil/other.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/3gp.cpp" "CMakeFiles/mp4v2.dir/src/3gp.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/3gp.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_ac3.cpp" "CMakeFiles/mp4v2.dir/src/atom_ac3.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_ac3.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_amr.cpp" "CMakeFiles/mp4v2.dir/src/atom_amr.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_amr.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_avc1.cpp" "CMakeFiles/mp4v2.dir/src/atom_avc1.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_avc1.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_avcC.cpp" "CMakeFiles/mp4v2.dir/src/atom_avcC.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_avcC.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_chpl.cpp" "CMakeFiles/mp4v2.dir/src/atom_chpl.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_chpl.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_colr.cpp" "CMakeFiles/mp4v2.dir/src/atom_colr.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_colr.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_d263.cpp" "CMakeFiles/mp4v2.dir/src/atom_d263.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_d263.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_dac3.cpp" "CMakeFiles/mp4v2.dir/src/atom_dac3.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_dac3.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_damr.cpp" "CMakeFiles/mp4v2.dir/src/atom_damr.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_damr.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_dref.cpp" "CMakeFiles/mp4v2.dir/src/atom_dref.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_dref.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_elst.cpp" "CMakeFiles/mp4v2.dir/src/atom_elst.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_elst.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_enca.cpp" "CMakeFiles/mp4v2.dir/src/atom_enca.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_enca.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_encv.cpp" "CMakeFiles/mp4v2.dir/src/atom_encv.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_encv.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_free.cpp" "CMakeFiles/mp4v2.dir/src/atom_free.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_free.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_ftab.cpp" "CMakeFiles/mp4v2.dir/src/atom_ftab.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_ftab.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_ftyp.cpp" "CMakeFiles/mp4v2.dir/src/atom_ftyp.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_ftyp.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_gmin.cpp" "CMakeFiles/mp4v2.dir/src/atom_gmin.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_gmin.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_hdlr.cpp" "CMakeFiles/mp4v2.dir/src/atom_hdlr.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_hdlr.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_hinf.cpp" "CMakeFiles/mp4v2.dir/src/atom_hinf.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_hinf.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_hnti.cpp" "CMakeFiles/mp4v2.dir/src/atom_hnti.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_hnti.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_href.cpp" "CMakeFiles/mp4v2.dir/src/atom_href.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_href.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_mdat.cpp" "CMakeFiles/mp4v2.dir/src/atom_mdat.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_mdat.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_mdhd.cpp" "CMakeFiles/mp4v2.dir/src/atom_mdhd.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_mdhd.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_meta.cpp" "CMakeFiles/mp4v2.dir/src/atom_meta.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_meta.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_mp4s.cpp" "CMakeFiles/mp4v2.dir/src/atom_mp4s.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_mp4s.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_mp4v.cpp" "CMakeFiles/mp4v2.dir/src/atom_mp4v.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_mp4v.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_mvhd.cpp" "CMakeFiles/mp4v2.dir/src/atom_mvhd.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_mvhd.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_nmhd.cpp" "CMakeFiles/mp4v2.dir/src/atom_nmhd.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_nmhd.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_ohdr.cpp" "CMakeFiles/mp4v2.dir/src/atom_ohdr.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_ohdr.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_pasp.cpp" "CMakeFiles/mp4v2.dir/src/atom_pasp.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_pasp.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_root.cpp" "CMakeFiles/mp4v2.dir/src/atom_root.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_root.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_rtp.cpp" "CMakeFiles/mp4v2.dir/src/atom_rtp.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_rtp.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_s263.cpp" "CMakeFiles/mp4v2.dir/src/atom_s263.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_s263.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_sdp.cpp" "CMakeFiles/mp4v2.dir/src/atom_sdp.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_sdp.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_sdtp.cpp" "CMakeFiles/mp4v2.dir/src/atom_sdtp.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_sdtp.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_smi.cpp" "CMakeFiles/mp4v2.dir/src/atom_smi.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_smi.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_sound.cpp" "CMakeFiles/mp4v2.dir/src/atom_sound.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_sound.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_standard.cpp" "CMakeFiles/mp4v2.dir/src/atom_standard.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_standard.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_stbl.cpp" "CMakeFiles/mp4v2.dir/src/atom_stbl.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_stbl.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_stdp.cpp" "CMakeFiles/mp4v2.dir/src/atom_stdp.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_stdp.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_stsc.cpp" "CMakeFiles/mp4v2.dir/src/atom_stsc.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_stsc.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_stsd.cpp" "CMakeFiles/mp4v2.dir/src/atom_stsd.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_stsd.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_stsz.cpp" "CMakeFiles/mp4v2.dir/src/atom_stsz.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_stsz.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_stz2.cpp" "CMakeFiles/mp4v2.dir/src/atom_stz2.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_stz2.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_text.cpp" "CMakeFiles/mp4v2.dir/src/atom_text.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_text.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_tfhd.cpp" "CMakeFiles/mp4v2.dir/src/atom_tfhd.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_tfhd.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_tkhd.cpp" "CMakeFiles/mp4v2.dir/src/atom_tkhd.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_tkhd.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_treftype.cpp" "CMakeFiles/mp4v2.dir/src/atom_treftype.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_treftype.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_trun.cpp" "CMakeFiles/mp4v2.dir/src/atom_trun.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_trun.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_tx3g.cpp" "CMakeFiles/mp4v2.dir/src/atom_tx3g.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_tx3g.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_udta.cpp" "CMakeFiles/mp4v2.dir/src/atom_udta.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_udta.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_url.cpp" "CMakeFiles/mp4v2.dir/src/atom_url.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_url.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_urn.cpp" "CMakeFiles/mp4v2.dir/src/atom_urn.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_urn.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_uuid.cpp" "CMakeFiles/mp4v2.dir/src/atom_uuid.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_uuid.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_video.cpp" "CMakeFiles/mp4v2.dir/src/atom_video.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_video.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/atom_vmhd.cpp" "CMakeFiles/mp4v2.dir/src/atom_vmhd.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/atom_vmhd.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/bmff/typebmff.cpp" "CMakeFiles/mp4v2.dir/src/bmff/typebmff.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/bmff/typebmff.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/cmeta.cpp" "CMakeFiles/mp4v2.dir/src/cmeta.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/cmeta.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/descriptors.cpp" "CMakeFiles/mp4v2.dir/src/descriptors.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/descriptors.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/exception.cpp" "CMakeFiles/mp4v2.dir/src/exception.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/exception.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/isma.cpp" "CMakeFiles/mp4v2.dir/src/isma.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/isma.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/itmf/CoverArtBox.cpp" "CMakeFiles/mp4v2.dir/src/itmf/CoverArtBox.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/itmf/CoverArtBox.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/itmf/Tags.cpp" "CMakeFiles/mp4v2.dir/src/itmf/Tags.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/itmf/Tags.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/itmf/generic.cpp" "CMakeFiles/mp4v2.dir/src/itmf/generic.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/itmf/generic.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/itmf/type.cpp" "CMakeFiles/mp4v2.dir/src/itmf/type.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/itmf/type.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/log.cpp" "CMakeFiles/mp4v2.dir/src/log.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/log.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4.cpp" "CMakeFiles/mp4v2.dir/src/mp4.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4atom.cpp" "CMakeFiles/mp4v2.dir/src/mp4atom.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4atom.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4container.cpp" "CMakeFiles/mp4v2.dir/src/mp4container.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4container.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4descriptor.cpp" "CMakeFiles/mp4v2.dir/src/mp4descriptor.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4descriptor.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4file.cpp" "CMakeFiles/mp4v2.dir/src/mp4file.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4file.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4file_io.cpp" "CMakeFiles/mp4v2.dir/src/mp4file_io.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4file_io.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4info.cpp" "CMakeFiles/mp4v2.dir/src/mp4info.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4info.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4property.cpp" "CMakeFiles/mp4v2.dir/src/mp4property.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4property.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4track.cpp" "CMakeFiles/mp4v2.dir/src/mp4track.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4track.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/mp4util.cpp" "CMakeFiles/mp4v2.dir/src/mp4util.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/mp4util.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/ocidescriptors.cpp" "CMakeFiles/mp4v2.dir/src/ocidescriptors.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/ocidescriptors.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/odcommands.cpp" "CMakeFiles/mp4v2.dir/src/odcommands.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/odcommands.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/qosqualifiers.cpp" "CMakeFiles/mp4v2.dir/src/qosqualifiers.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/qosqualifiers.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/qtff/ColorParameterBox.cpp" "CMakeFiles/mp4v2.dir/src/qtff/ColorParameterBox.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/qtff/ColorParameterBox.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/qtff/PictureAspectRatioBox.cpp" "CMakeFiles/mp4v2.dir/src/qtff/PictureAspectRatioBox.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/qtff/PictureAspectRatioBox.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/qtff/coding.cpp" "CMakeFiles/mp4v2.dir/src/qtff/coding.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/qtff/coding.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/rtphint.cpp" "CMakeFiles/mp4v2.dir/src/rtphint.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/rtphint.cpp.o.d"
+  "/home/tuan/FPT/MP4v2/mp4v2/src/text.cpp" "CMakeFiles/mp4v2.dir/src/text.cpp.o" "gcc" "CMakeFiles/mp4v2.dir/src/text.cpp.o.d"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/tuan/FPT/MP4v2/mp4v2/libmp4v2.so" "/home/tuan/FPT/MP4v2/mp4v2/libmp4v2.so.2.1.3"
+  "/home/tuan/FPT/MP4v2/mp4v2/libmp4v2.so.2" "/home/tuan/FPT/MP4v2/mp4v2/libmp4v2.so.2.1.3"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

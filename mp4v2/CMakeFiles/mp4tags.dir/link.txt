@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mp4tags.dir/util/mp4tags.cpp.o -o mp4tags  -Wl,-rpath,/home/tuan/FPT/MP4v2/mp4v2: libmp4v2.so.2.1.3 

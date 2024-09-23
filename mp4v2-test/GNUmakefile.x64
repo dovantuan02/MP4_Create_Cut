@@ -1,0 +1,19 @@
+CXX = g++
+CXXFLAGS = -std=c++11 -Wall
+
+all: clean main
+
+main: main.o mp4v2_mp4.o
+	$(CXX) $(CXXFLAGS) -o $@ $^ -lmp4v2 -lpthread
+
+main.o: main.cpp
+	$(CXX) $(CXXFLAGS) -c $<
+
+mp4v2_mp4.o: mp4v2_mp4.cpp
+	$(CXX) $(CXXFLAGS) -c $<
+
+run: all
+	sudo LD_LIBRARY_PATH=/usr/local/lib ./main
+
+clean:
+	rm -f main main.o mp4v2_mp4.o

@@ -1,0 +1,2 @@
+file '/home/tuan/FPT/MP4v2/mp4v2-test/out.mp4'
+file '/home/tuan/FPT/MP4v2/mp4v2-test/motion.mp4'
